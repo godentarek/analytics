@@ -1,6 +1,5 @@
 <?php
 
-class GoogleAnalyticsAppModel extends AppModel {
-
+class GoogleAnalyticsAppModel extends AppModel
+{
 }
-

@@ -1,6 +1,5 @@
 <?php
 
-class AnalyticsAppController extends AppController {
-
+class AnalyticsAppController extends AppController
+{
 }
-
